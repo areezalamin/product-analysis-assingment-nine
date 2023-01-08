@@ -2,7 +2,9 @@ import React from 'react'
 
 const Review = () => {
   return (
-    <div><h1>This is Review</h1></div>
+    <div className='bg-teal-300'>
+        <h1 className='text-center text-3xl mt-3'>Customer Review(3)</h1>
+    </div>
   )
 }
 

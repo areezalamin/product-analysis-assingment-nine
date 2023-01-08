@@ -1,9 +1,12 @@
 import React from 'react'
+import Product from '../Product/product'
+import Review from '../Review/Review'
 
 const Home = () => {
   return (
-    <div>
-        <h1>This is home.</h1>
+    <div className='container'>
+        <Product></Product>
+        <Review></Review>
     </div>
   )
 }
