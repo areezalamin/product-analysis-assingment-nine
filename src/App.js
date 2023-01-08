@@ -6,6 +6,7 @@ import Review from './Component/Review/Review';
 import Dashboard from './Component/Dashboard/Dashboard';
 import Blog from './Component/Blog/Blog';
 import About from './Component/About/About';
+import AllReview from './Component/AllReview/AllReview';
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
       <Header></Header>
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
-        <Route path='/Review' element={<Review></Review>}></Route>
+        <Route path='/AllReview' element={<AllReview></AllReview>}></Route>
         <Route path='/Dashboard' element={<Dashboard></Dashboard>}></Route>
         <Route path='/Blog' element={<Blog></Blog>}></Route>
         <Route path='/About' element={<About></About>}></Route>

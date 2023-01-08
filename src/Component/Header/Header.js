@@ -22,7 +22,7 @@ const Header = () => {
         </div>
         <div className='mr-5 text-2xl'>
         <NavLink
-            to="/Review"
+            to="/AllReview"
             style={({ isActive, isPending }) => {
                 return {
                 color: isActive ? "red" : "inherit",
@@ -32,7 +32,7 @@ const Header = () => {
                 return isActive ? "active" : isPending ? "pending" : "";
             }}
             >
-            Review
+            AllReview
         </NavLink>
         </div>
         <div className='mr-5 text-2xl'>
