@@ -4,17 +4,15 @@ Product-Analysis
 
 ## Project Live Link:
 
-Netlify Link :(https://product-analysing.netlify.app/)
+Netlify Link :(https://product-analysis-assingmen-nine.netlify.app/)
 
 ## Bullet Points:
 
-* I don't Know what is bullet point
-    * What should i do?
-       * What can i do?
-    * How can i do?
-* I don't no what should i do?
-
-
+- I don't Know what is bullet point
+  - What should i do?
+    - What can i do?
+  - How can i do?
+- I don't no what should i do?
 
 # Getting Started with Create React App
 
